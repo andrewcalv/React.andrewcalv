@@ -1,5 +1,4 @@
 import React from 'react';
-import { icons } from 'react-icons';
 import { Container, FormButton, FormContent, FormH1, FormIcon, FormInput, FormLabel, FormWrap, Text, Form } from './SigninElements';
 
 const SigninPage = () => {

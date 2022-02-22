@@ -1,5 +1,4 @@
 import React from 'react';
-import { FaToggleOff } from 'react-icons/fa';
 import { SidebarContainer, Icon, CloseIcon, SidebarWrapper, SidebarMenu, SidebarLink, SidebarRoute, SideBtnWrap } from './SidebarElements';
 
 const Sidebar = ({ isOpen, toggle }) => {
